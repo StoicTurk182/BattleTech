@@ -1,0 +1,1 @@
+Place both run.cmd and Install.ps1 into the mods folder main directory and run the bat as admin, you will asked to specify a path to move the folders too. 
